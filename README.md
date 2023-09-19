@@ -1,4 +1,4 @@
-## Hello World! Eu sou Lucas Rolando,desenvolvedor Node.js e React!
+## Hello World! Eu sou Lucas Rolando, desenvolvedor Node.js e React!
 Atualmente estudando na Formação Dev Fullstack 6 meses da Resilia Educação em parceria com a EBANX.
 
 <div style="display: inline_block"><br>
