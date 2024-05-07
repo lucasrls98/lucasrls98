@@ -1,5 +1,5 @@
-## Hello World! Eu sou Lucas Rolando, desenvolvedor Node.js e React!
-Atualmente estudando na Formação Dev Fullstack 6 meses da Resilia Educação em parceria com a EBANX.
+## Hello World! Eu sou Lucas Rolando, QA Engineer!
+Já tive experiência com Cypress, Selenium e Playwright.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
